@@ -6,3 +6,16 @@
 - [link : https://kku.world/tqy33]
 
   
+### Ecommerce Website
+- i built an online bookstore website featuring a customer-facing
+  interface and admin backend, both developed in PHP. Designed
+  a database to store book, user, and order information, and add
+  an admin panel for managing it.
+
+
+### Hibernate Spring Boot Website
+- This project involved the development of an online pet food store website
+  with a focus on the administrator (ADMIN) side. The website was built using
+  Spring Boot and Hibernate, and the SOLID principles and patterns were applied
+  to ensure efficient system design
+- [link : https://kku.world/tqy33]
