@@ -25,3 +25,5 @@
   Khon Kaen University By used SonarQube to analyze code quality,
   wrote automated test scripts (Robot Framework),
   and proposed system development guidelines. 
+
+(c) supattra pangjun
