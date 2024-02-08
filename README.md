@@ -26,4 +26,4 @@
   wrote automated test scripts (Robot Framework),
   and proposed system development guidelines. 
 
-(c) supattra pangjun
+(c) Supattra Pangjun
