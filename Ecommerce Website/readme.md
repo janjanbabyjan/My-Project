@@ -1,1 +1,1 @@
-- link : https://kku.world/l3xqw
+[link : https://kku.world/l3xqw]
