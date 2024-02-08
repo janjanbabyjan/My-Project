@@ -18,4 +18,10 @@
   with a focus on the administrator (ADMIN) side. The website was built using
   Spring Boot and Hibernate, and the SOLID principles and patterns were applied
   to ensure efficient system design
-- [link : https://kku.world/tqy33]
+
+
+### Testing The Research Management System
+- Analyzed and developed the research management system of the College of Computing,
+  Khon Kaen University By used SonarQube to analyze code quality,
+  wrote automated test scripts (Robot Framework),
+  and proposed system development guidelines. 
