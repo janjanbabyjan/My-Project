@@ -7,7 +7,7 @@
 
   
 ### Ecommerce Website
-- i built an online bookstore website featuring a customer-facing
+- I built an online bookstore website featuring a customer-facing
   interface and admin backend, both developed in PHP. Designed
   a database to store book, user, and order information, and add
   an admin panel for managing it.
